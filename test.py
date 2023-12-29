@@ -18,6 +18,3 @@ delka_jmena = len(cele_jmeno)
 print("Celé jméno:", cele_jmeno)
 print("Délka jména:", delka_jmena)
 
-print("=" * len(cele_jmeno))
-print(cele_jmeno)
-print("=" * len(cele_jmeno))
